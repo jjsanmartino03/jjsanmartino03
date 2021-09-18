@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **jjsanmartino03/jjsanmartino03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  <img style='width:300px;margin:auto;' src='https://user-images.githubusercontent.com/58923155/133898287-bf560654-7f3c-44c0-8046-9e8d04aed1a5.png'>
