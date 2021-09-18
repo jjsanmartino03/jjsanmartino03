@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, I'm Juli 👋
 
 <!--
 **jjsanmartino03/jjsanmartino03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjsanmartino03&count_private=true&show_icons=true&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjsanmartino03&hide=Jupyter+Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   <img style='width:300px;margin:auto;' src='https://user-images.githubusercontent.com/58923155/133898287-bf560654-7f3c-44c0-8046-9e8d04aed1a5.png'>
