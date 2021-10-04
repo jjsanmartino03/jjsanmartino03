@@ -18,8 +18,10 @@ Meet my octocat 😆
 </p>
 
 ## Here's my contribution graph (idk why, but a snake is eating it)
+<p align='center'>
 <img src="https://github.com/jjsanmartino03/jjsanmartino03/blob/output/github-contribution-grid-snake.svg">
-
+</p>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jjsanmartino03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jjsanmartino03" height="30" width="40" /></a>
