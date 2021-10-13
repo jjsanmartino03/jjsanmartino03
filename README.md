@@ -30,3 +30,6 @@ Meet my octocat 😆
 <a href="https://kaggle.com/juliansanmartino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="juliansanmartino" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jjsanmartino03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jjsanmartino03" height="30" width="40" /></a>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
