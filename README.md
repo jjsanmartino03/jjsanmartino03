@@ -33,6 +33,6 @@ Meet my octocat 😆
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   5 mins          ████████████████████████░   95.84 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
