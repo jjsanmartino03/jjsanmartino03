@@ -1,10 +1,11 @@
 # Hi there, I'm Juli 👋
 - 💻 I'm a full stack developer.
-- 🚀 I'm working at [rooftop.dev](https://rooftop.dev) in exciting projects and with awesome people 🤯
+- 🚀 I'm currently looking for part-time opportunities to apply my knowledge and grow as a developer.
 - 👨‍🎓 I'm studing Systems Engineering in Argentina.
 - 🤝 I’m looking to connect with other devs.
 - 📫 How to reach me:
   - jjsanmartino03@gmail.com
+  - [LinkedIn](https://linkedin.com/in/julian-sanmartino)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jjsanmartino03&count_private=true&show_icons=true&hide=stars,issues&theme=dark">
