@@ -26,9 +26,11 @@ Meet my octocat 😆
   <img align='center' style='width:300px;margin:auto;display:flex;justify-content:center' src='https://user-images.githubusercontent.com/58923155/133898287-bf560654-7f3c-44c0-8046-9e8d04aed1a5.png'>
 </p>
 
+<!--
 ## Here's my contribution graph (with a snake!)
 <img src="https://github.com/jjsanmartino03/jjsanmartino03/blob/output/github-contribution-grid-snake.svg">
 </p>
+-->
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,7 +41,7 @@ Meet my octocat 😆
 <a href="https://www.hackerrank.com/jjsanmartino03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jjsanmartino03" height="30" width="40" /></a>
 </p>
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka
 
 ```txt
 Vue.js           5 hrs 37 mins   █████████░░░░░░░░░░░░░░░░   36.06 %
