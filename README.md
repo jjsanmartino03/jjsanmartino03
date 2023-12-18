@@ -6,19 +6,20 @@
 - 📫 How to reach me:
   - jjsanmartino03@gmail.com
   - [LinkedIn](https://linkedin.com/in/julian-sanmartino)
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jjsanmartino03&count_private=true&show_icons=true&hide=stars,issues&theme=dark">
   <img alt="Julian's Github stats" src="https://github-readme-stats.vercel.app/api?username=jjsanmartino03&count_private=true&show_icons=true&hide=stars,issues">
 </picture>
+-->
 
 </br>
-<!--
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jjsanmartino03&hide=Jupyter+Notebook&layout=compact&theme=dark">
   <img alt="Julian's Github stats" src="https://github-readme-stats.vercel.app/api?username=jjsanmartino03&count_private=true&show_icons=true&hide=stars,issues">
 </picture>
--->
+
 <h2 align='center'>
 Meet my octocat 😆
 </h3>
